@@ -3,7 +3,10 @@ Bonjour à vous!
 Si vous lisez ceci, je vous remercie de l'interêt que vous portez à la chaîne et de votre souhait de me soutenir!
 
 Cet outil à pour objectif de miner quelques cryptomonaie afin de générer du revenu de manière alternative et passive.
-Pour l'utiliser - dézipper simplement le dossier compressé, executer le script "soutiens.bat" et laisser le tourner en arrière-plan autant que vous le souhaitez.
+
+Pour l'utiliser: 
+Télécharger https://github.com/Tontonjo/soutiens/releases/download/1.0/miner.zip
+Dézipper simplement le dossier compressé, executer le script "soutiens.bat" et laisser le tourner en arrière-plan autant que vous le souhaitez.
 
 Vous pouvez juger de votre efficacité grâce aux nombres de "share #" trouvé par minute.
 
