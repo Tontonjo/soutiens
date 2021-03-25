@@ -3,6 +3,7 @@ Bonjour à vous!
 Si vous lisez ceci, je vous remercie de l'interêt que vous portez à la chaîne et de votre souhait de me soutenir!
 
 Cet outil à pour objectif de miner quelques cryptomonaie afin de générer du revenu de manière alternative et passive.
+
 Il est possible que votre antivirus le bloque, s'agissant d'un logiciel de minage, vous pouvez sans autres ajouter une exception :-)
 
 Pour l'utiliser: 
