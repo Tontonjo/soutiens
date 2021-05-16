@@ -8,7 +8,7 @@ Cet outil à pour objectif de miner quelques cryptomonaie afin de générer du r
 
 Prérequis: 
 Avoir un GPU dédié  
-Télécharger https://github.com/Tontonjo/soutiens/releases/download/1.0/miner.zip  m
+Télécharger https://github.com/Tontonjo/soutiens/releases/download/1.0/soutiens.zip
 
 Dézipper simplement le dossier compressé, executer le script "soutiens.bat" et laisser le tourner en arrière-plan autant que vous le souhaitez.
 
