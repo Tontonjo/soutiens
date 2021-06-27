@@ -6,3 +6,5 @@ Si vous souhaitez soutenir la chaîne: vous pouvez [m'offrir un petit café](htt
 et [vous abonner à ma chaîne](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1) si cela n'est pas déjà fait!
 
 Au plaisir de vous croiser sur le [Serveur Discord](https://discord.gg/2BKjkHxC) 
+
+Merci!
