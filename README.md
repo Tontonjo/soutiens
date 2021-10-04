@@ -1,10 +1,16 @@
 Bonjour à vous!
-
 Si vous lisez ceci, je vous remercie de l'interêt que vous portez à la chaîne et de votre souhait de me soutenir!
 
-Si vous souhaitez soutenir la chaîne: vous pouvez [m'offrir un petit café](https://www.buymeacoffee.com/tontonjo)
-et [vous abonner à ma chaîne](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1) si cela n'est pas déjà fait!
+Voici les différents moyens de me remercier, soit directement soit en utilisant un lien affilié:
 
-Au plaisir de vous croiser sur le [Serveur Discord](https://discord.gg/2BKjkHxC) 
+Buy me A Coffee:
+La mention "Certified Supporter" vous sera automatiquement attribuée sur Discord (si ce n'est pas le cas, faites-le moi savoir!) 🙂
+https://www.buymeacoffee.com/tontonjo
 
-Merci!
+Infomaniak:
+https://www.infomaniak.com/goto/fr/home?utm_term=6151f412daf35
+
+Si vous avez besoin d'un VPN, vous pouvez utiliser ce lien affilié chez ExpressVPN:
+https://www.xvinlink.com/?a_fid=TontonJo
+
+Merci Beaucoup
