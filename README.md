@@ -6,7 +6,7 @@ Si vous lisez ceci, je vous remercie de l'interêt que vous portez à la chaîne
 Voici les différents moyens de me remercier, soit directement soit en utilisant un lien affilié:
 
 ## Buy me A Coffee:  
-https://www.buymeacoffee.com/tontonjo
+https://www.buymeacoffee.com/tontonjo  
 La mention "Certified Supporter" vous sera automatiquement attribuée sur Discord (si ce n'est pas le cas, faites-le moi savoir!) 🙂
 
 ## Infomaniak - lien affilié:
