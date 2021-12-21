@@ -21,6 +21,6 @@ La mention "Certified Supporter" vous sera automatiquement attribuée sur Discor
 https://www.infomaniak.com/goto/fr/home?utm_term=6151f412daf35
 
 ## Express VPN - Lien affilié:  
-https://www.xvinlink.com/?a_fid=TontonJo
+https://www.xvuslink.com/?a_fid=TontonJo
 
 Merci Beaucoup
